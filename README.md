@@ -6,3 +6,6 @@ This is my pro portfolio which uses AWS & React
 
 Git , Github
 SSH
+HTML
+CSS
+Google Fonts
